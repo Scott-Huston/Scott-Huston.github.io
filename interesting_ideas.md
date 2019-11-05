@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Interesting Ideas
 # subtitle: 
 ---
 I'm a data scientist in the San Francisco Bay Area. 

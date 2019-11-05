@@ -22,8 +22,8 @@ description: A collection of projects and thoughts
 navbar-links:
   About Me: "aboutme"
   Things I like:
-    - Cool places online: "https://slatestarcodex.com/"
-    - Interesting ideas: "https://www.google.com/search?q=liquid+democracy&oq=liquid+democracy&aqs=chrome..69i57j0l5.6463j0j7&sourceid=chrome&ie=UTF-8"
+    - Cool places online: "cool_places_online"
+    - Interesting ideas: "interesting_ideas"
   Author's home: "http://scotthuston.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
