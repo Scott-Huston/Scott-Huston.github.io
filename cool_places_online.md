@@ -13,4 +13,4 @@ title: Cool Places Online
 - [https://patrickcollison.com](https://patrickcollison.com/)
 - [https://www.eugenewei.com/](https://www.eugenewei.com/)
 - [https://stratechery.com/](https://stratechery.com/)
-- [https://kwokchain.com/](https://kwokchain.com/)(???)
+- [https://kwokchain.com/](https://kwokchain.com/)
