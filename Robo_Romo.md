@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robo Romo
-subtitle: A web app to predict whether NFL teams will run or pass based on the game situation
+subtitle: A web app to predict whether NFL teams will run or pass
 ---
 [Robo Romo](http://robo-romo.herokuapp.com/)
 
