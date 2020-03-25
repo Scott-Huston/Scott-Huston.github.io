@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yelp Insights
-subtitle: Extract meaningful insights for business owners from Yelp data
+subtitle: Extract meaningful information for business owners from Yelp data
 ---
 [Site](https://yelpinsights.com/dashboard) -- [Github](https://github.com/Lambda-School-Labs/yelp-dataset-challenge-2-ds)
 
