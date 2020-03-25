@@ -22,6 +22,7 @@ description: A collection of projects and thoughts
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Yelp Insights: "Yelp_Insights"
     - Robo Romo: "Robo_Romo"
     - NBA Longevity: "NBA_Longevity"
   Things I like: 
