@@ -17,5 +17,3 @@ Built using:
 - Scikit-learn
 - Plotly Dash
 - Heroku
-
-
