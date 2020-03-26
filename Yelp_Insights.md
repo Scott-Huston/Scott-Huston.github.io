@@ -12,7 +12,6 @@ Created dashboard and Baysian ratings using natural language processing of Yelp 
 - Implemented custom AWS tooling library
 
 Tech stack:
-- AWS (S3, EC2, SageMaker)
 - Python
 - Pandas
 - Scikit-learn
