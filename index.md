@@ -3,12 +3,6 @@ layout: page
 title: About me
 # subtitle: 
 ---
-I'm a data scientist in the San Francisco Bay Area. 
+Hi! I'm a data scientist in the San Francisco Bay Area. My hobbies include exploring random forests and playing with pandas. I like using data to solve problems for ambitious organizations. Optimizing for rate of change.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
 
