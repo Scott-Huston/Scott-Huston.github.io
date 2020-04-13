@@ -20,7 +20,7 @@ description: A collection of projects and thoughts
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Projects:
     - Yelp Insights: "Yelp_Insights"
     - Robo Romo: "Robo_Romo"
